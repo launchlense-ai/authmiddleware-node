@@ -10,7 +10,8 @@ Here is a `README.md` file to demonstrate the implementation of the `authmiddlew
 To install the package, use npm:
 
 ```bash
-npm install authmiddleware
+npm install @launchlense-ai/authmiddleware
+
 ```
 
 ## Usage
