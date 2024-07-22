@@ -1,6 +1,6 @@
 {
   "name": "@launchlense-ai/authmiddleware",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "fully managed authmiddleware by launclense.tech",
   "main": "index.js",
   "scripts": {
