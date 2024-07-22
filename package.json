@@ -1,5 +1,5 @@
 {
-  "name": "authmiddleware",
+  "name": "@launchlense-ai/authmiddleware",
   "version": "1.0.0",
   "description": "fully managed authmiddleware by launclense.tech",
   "main": "index.js",
